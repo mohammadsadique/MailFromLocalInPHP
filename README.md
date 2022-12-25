@@ -3,4 +3,4 @@
 
 ### Please set Mail credential if given credential is not working for any reason.
 
-### Run mail.php page 
+### Run mail.php page  
